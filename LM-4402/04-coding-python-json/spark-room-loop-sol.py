@@ -1,7 +1,7 @@
 import json
 import requests
 
-accessToken = "" #put your access token here between the quotes.
+accessToken = "MWU1ZDE4YzItMjllMi00YjdiLWExYzktZDNkODFlZDk4N2FjOTJmNjI4MTQtZWZl" #put your access token here between the quotes.
 
 
 def setHeaders():         
