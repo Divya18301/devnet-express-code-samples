@@ -3,9 +3,9 @@ import sys
 import requests
 
 #MISSION: FILL IN THE REQUESTED DETAILS
-ACCESS_TOKEN 	= None #Replace None with your access token. Shroud with quotes.
-ROOM_NAME		= None #Replace None with the name of the room to be created. Shroud with quotes.
-YOUR_MESSAGE 	= None #Replace None with the message that you will post to the room. Shroud with quotes.
+ACCESS_TOKEN 	= "
+ROOM_NAME		= "sparkroomv1"
+YOUR_MESSAGE 	= "Hello spark room my script verified that i can post messages to spark using Rest api calls"
 
 
 #sets the header to be used for authentication and data format to be sent.
