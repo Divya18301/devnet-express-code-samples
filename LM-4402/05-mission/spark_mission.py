@@ -17,7 +17,7 @@ def setHeaders():
 
 #check if spark room already exists.  If so return the room id
 def findRoom(the_header,room_name):
-	roomId=None
+	roomId= none
 	uri = 'https://api.ciscospark.com/v1/rooms'
 	resp = requests.get(uri, headers=the_header)
 	resp = resp.json()
