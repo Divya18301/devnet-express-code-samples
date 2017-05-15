@@ -3,7 +3,7 @@ import sys
 import requests
 
 #MISSION: FILL IN THE REQUESTED DETAILS
-ACCESS_TOKEN 	= "
+ACCESS_TOKEN 	= "MWU1ZDE4YzltMjIIMiooYjdiLWExYzt"
 ROOM_NAME		= "sparkroomv1"
 YOUR_MESSAGE 	= "Hello spark room my script verified that i can post messages to spark using Rest api calls"
 
